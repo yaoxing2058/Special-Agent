@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pistol
+  - Assault Rifle
+  - Minigun
+  - Knife
+  - Bullet
+  - Manager
+  - Zombie
+  - Score
+  - Full Auto
+  - Semi Auto
+  - Weapon Holder
+  - Automatic
+  - Paused
+  - Reload
+  - Empty Gun
+  - Ammo Count
+  - Pistol Functions
+  - Assault Rifle Functions
+  - Interactable
+  - Crosshair
+  - Pickable
+  - Activatable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

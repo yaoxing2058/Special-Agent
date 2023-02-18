@@ -1,0 +1,12 @@
+newmtl Pistol_Projectile:lambert2SG
+illum 4
+Kd 0.31 0.29 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.54 0.50 0.26
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
